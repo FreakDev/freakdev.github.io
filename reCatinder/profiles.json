@@ -1,0 +1,80 @@
+[{
+    "name" : "Mallow",
+    "shareWith": "enfants",
+    "age": 1,
+    "description" : "Un chat tout mou",
+    "distance": 7,
+    "photos" : ["cats/kitten-0.jpg", "cats/kitten-1.jpg", "cats/kitten-2.jpg", "cats/kitten-3.jpg"]
+},
+{
+    "name" : "Meau",
+    "shareWith": "touaregs",
+    "description" : "Il ne boit pas beaucoups c'est l'avantage",
+    "photos" : ["cats/kitten-4.jpg", "cats/kitten-5.jpg", "cats/kitten-6.jpg"]
+},
+{
+    "name" : "Rabia",
+    "shareWith": "pipelettes",
+    "age" : 2,
+    "description" : "Miaule tout le temps... on ne comprend rien!",
+    "distance": 5,
+    "photos" : ["cats/kitten-7.jpg", "cats/kitten-8.jpg"]
+},
+{
+    "name" : "Timent",
+    "shareWith": "ennemis",
+    "description" : "Il sort les griffes parfois!",
+    "distance": 2,
+    "photos" : ["cats/kitten-9.jpg", "cats/kitten-10.jpg", "cats/kitten-11.jpg", "cats/kitten-12.jpg", "cats/kitten-13.jpg"]
+},
+{
+    "name" : "Sseur",
+    "shareWith": "pêcheurs",
+    "age" : 1,
+    "description" : "Mon dieu qu'elle est bonne Sseur",
+    "distance": 3,
+    "photos" : ["cats/kitten-35.jpg", "cats/kitten-36.jpg"]    
+},
+{
+    "name" : "Loupe",
+    "shareWith": "marin",
+    "description" : "Tangue un peu de temps à autre",
+    "photos" : ["cats/kitten-14.jpg", "cats/kitten-15.jpg", "cats/kitten-16.jpg", "cats/kitten-17.jpg"]
+},
+{
+    "name" : "Peauté",
+    "shareWith": "montres verts",
+    "age" : 3,
+    "description" : "Garanti sans boule de poils",
+    "distance": 2,
+    "photos" : ["cats/kitten-21.jpg", "cats/kitten-22.jpg"]
+},
+{
+    "name" : "Kira",
+    "shareWith": "chateuses",
+    "age" : 2,
+    "description" : "Va vous faire danser !",
+    "distance": 6,
+    
+    "photos" : ["cats/kitten-32.jpg", "cats/kitten-33.jpg", "cats/kitten-34.jpg"]    
+},
+{
+    "name" : "Rrue",
+    "shareWith": "paysans",
+    "description" : "Rrue... Parfois dans les brancards",
+    "photos" : ["cats/kitten-28.jpg", "cats/kitten-29.jpg", "cats/kitten-31.jpg", "cats/kitten-31.jpg"]
+},
+{
+    "name" : "Ste",
+    "shareWith": "bonnes soeurs",
+    "description" : "Amen",
+    "distance": 3,
+    "photos" : ["cats/kitten-23.jpg", "cats/kitten-24.jpg", "cats/kitten-25.jpg", "cats/kitten-26.jpg", "cats/kitten-27.jpg"]
+},
+{
+    "name" : "512",
+    "shareWith": "informaticiens",
+    "description" : "Chat One est mort vive les sha!",
+    "distance": 42,
+    "photos" : ["cats/kitten-18.jpg", "cats/kitten-19.jpg", "cats/kitten-20.jpg"]
+}]
